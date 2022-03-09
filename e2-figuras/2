@@ -1,0 +1,16 @@
+1) Preguntar que figura se quiere usar
+2) De esta misma preguntar si quiere el Perimetro o el area
+3) Solicitar los datos de la figura en si para poder usarlos en el calculo
+4) Al ingresar los datos se deben enviar y asi nuestra formula deberia aplicarse
+4.5) La formula dependera de la figura y la operacion solicitada
+
+    Formula Perimetro Cuadrado = Suma de todos los lados ( 4 * I o a + b + c + d)
+    Formula Perímetro Triangulo = Suma de todos los lados (a + b + c)
+    Formula Perimetro Rectangulo =  Suma de todos los lados (2 * a + 2 * b )
+
+    Formula Area Cuadrado = a elevado a 2 / base por altura
+    Formula Area Triangulo = Area = (a * b)/2
+    Formula Area Rectangulo = a elevado a 2 / base por altura
+
+5) Mostrarle al usuario el resultado
+
